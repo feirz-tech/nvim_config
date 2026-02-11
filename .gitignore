@@ -1,0 +1,7 @@
+# Neovim cache
+plugin/
+lazy-lock.json
+packer_compiled.lua
+
+# OS files
+.DS_Store
